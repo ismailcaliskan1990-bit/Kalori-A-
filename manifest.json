@@ -1,11 +1,13 @@
 {
-  "name": "Kalori Açığı",
-  "short_name": "Kalori",
-  "start_url": "./",
-  "scope": "./",
+  "background_color": "#ffffff",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#001D4A",
-  "theme_color": "#FFED00",
+  "name": "Kalori Açığı",
   "orientation": "portrait",
+  "scope": "/Kalori-A-/",
+  "short_name": "Kalori Açığı",
+  "start_url": "https://ismailcaliskan1990-bit.github.io/Kalori-A-/",
+  "theme_color": "#ffffff",
+  "description": "Günlük 1800 kalori hedefi, beslenme, su ve spor takip uygulaması.",
   "lang": "tr"
 }
