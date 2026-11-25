@@ -1,0 +1,11 @@
+{
+  "name": "Kalori Açığı",
+  "short_name": "Kalori",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#001D4A",
+  "theme_color": "#FFED00",
+  "orientation": "portrait",
+  "lang": "tr"
+}
